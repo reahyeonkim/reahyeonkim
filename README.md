@@ -6,7 +6,7 @@
 <a href="https://github.com/reahyeon" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://reahyeon.tistory.com" target="_blank">
+<a href="https://reahyeonkim.tistory.com" target="_blank">
 <img src=https://img.shields.io/badge/Tech%20Blog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white alt=velog style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.instagram.com/reahyeon._.aa/" target="_blank">
