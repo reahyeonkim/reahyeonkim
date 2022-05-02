@@ -4,6 +4,9 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeonjun&count_bg=%231B61C2&title_bg=%23332020&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br><br>
 <a href="https://www.instagram.com/raehyeon._.aa/?hl=ko">
+ <img 
+     src="http://img.shields.io/badge/-raehyeon._.a-white?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
+     style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <br><br>
 
 <!--
