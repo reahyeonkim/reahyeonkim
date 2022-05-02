@@ -15,7 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=reahyeon%20render&fontSize=90)
-![header](https://capsule-render.vercel.app/api?color=auto)
-![header](https://capsule-render.vercel.app/api?color=gradient&customColorList=0,2,2,5,30)
-![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontAlignY=20&desc=Desc&descAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=reahyeon%20&fontSize=90)
+
