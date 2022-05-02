@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <h2 align="center"><b>🛠 Tech Stack 🛠</b></h2>
 </br>
 <p align="center">
-<img src="https://img.shields.io/badge/-Babel-A8B9CC?style=flat&logo=Babel"/></a> &nbsp
+<img src="https://img.shields.io/badge/-Babel-white?style=flat&logo=Babel"/></a> &nbsp
 <img src="https://img.shields.io/badge/-Webpack-512BD4?style=flat&logo=Webpack"/></a> &nbsp
 <img src="https://img.shields.io/badge/-OpenGL-5586A4?style=flat&logo=OpenGL"/></a> &nbsp
 <br>
