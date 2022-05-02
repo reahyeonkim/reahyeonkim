@@ -26,14 +26,13 @@ Here are some ideas to get you started:
 <h2 align="center"><b>🛠 Tech Stack 🛠</b></h2>
 </br>
 <p align="center">
-<img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=Python"/></a> &nbsp
-<br>
-<img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C"/></a> &nbsp
-<img src="https://img.shields.io/badge/-OpenGL-5586A4?style=flat&logo=OpenGL"/></a> &nbsp
-<br>
 <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=Java"/></a> &nbsp
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript"/></a> &nbsp
 <img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jQuery"/></a> &nbsp
+<br>
+<img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=Python"/></a> &nbsp
+<img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C"/></a> &nbsp
+<img src="https://img.shields.io/badge/-OpenGL-5586A4?style=flat&logo=OpenGL"/></a> &nbsp
 <br>
 <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL"/></a> &nbsp
 <img src="https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=MariaDB"/></a> &nbsp
