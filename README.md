@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=reahyeon%20&fontSize=90)
-[![아누라그의 GitHub 통계](https://github-readme-stats.vercel.app/api ?username=svne92 )](https://github.com/reahyeon/github-readme-stats)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
