@@ -35,7 +35,17 @@ Here are some ideas to get you started:
 <p align="center">
 <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=Java"/></a> &nbsp
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript"/></a> &nbsp
-<img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jQuery"/></a> &nbsp
+![](https://img.shields.io/badge/-Babel-F9DC3E?&logo=Babel&logoColor=white)
+![](https://img.shields.io/badge/-Webpack-8DD6F9?&logo=Webpack&logoColor=black)
+![](https://img.shields.io/badge/-Prettier-F7B93E?&logo=Prettier&logoColor=white)
+![](https://img.shields.io/badge/-ESLint-4B32C3?&logo=ESLint&logoColor=white)
+![typescript](https://img.shields.io/badge/typescript-007acc?logo=typescript&logoColor=white)
+![react](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+![react native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white)
+![redux-toolkit](https://img.shields.io/badge/-Redux%20ToolKit-764abc?logo=redux&logoColor=white)
+![](https://img.shields.io/badge/-Storybook-FF4785?&logo=Storybook&logoColor=white)
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5"/></a> &nbsp
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3"/></a> &nbsp
 <br>
 <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=Python"/></a> &nbsp
 <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C"/></a> &nbsp
@@ -46,14 +56,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB"/></a> &nbsp
 <img src="https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=Oracle"/></a> &nbsp
 <br>
-<img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux"/></a> &nbsp
-<br>
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5"/></a> &nbsp
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3"/></a> &nbsp
-<img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React"/></a> &nbsp
-<img src="https://img.shields.io/badge/-AngularJS-E23237?style=flat&logo=AngularJS"/></a> &nbsp
-<br>
-<img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=Spring"/></a> &nbsp
 <img src="https://img.shields.io/badge/-Spring Boot-6DB33F?style=flat&logo=Spring Boot"/></a> &nbsp
 
