@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=svne92&cache=c">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reahyeon&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reahyeonkim&show_icons=true&theme=radical)
 
 <h2 align="center"><b>🛠 Tech Stack 🛠</b></h2>
 </br>
