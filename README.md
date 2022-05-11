@@ -33,7 +33,6 @@ Here are some ideas to get you started:
 <p align="center">
 <img src="https://img.shields.io/badge/-Babel-F9DC3E?style=flat&logo=Babel"/></a> &nbsp
 <img src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=Webpack"/></a> &nbsp
-<img src="https://img.shields.io/badge/-OpenGL-5586A4?style=flat&logo=OpenGL"/></a> &nbsp
 <br>
 <img src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat&logo=Prettier"/></a> &nbsp
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript"/></a> &nbsp
