@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3"/></a> &nbsp
 <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React"/></a> &nbsp
 <img src="https://img.shields.io/badge/-typescript-007acc?style=flat&logo=typescript"/></a> &nbsp
-<img src="https://img.shields.io/badge/-typescript-007acc?style=flat&logo=springBoot"/></a> &nbsp
+<img src="https://img.shields.io/badge/-SpringBoot-007acc?style=flat&logo=springBoot"/></a> &nbsp
 
 
 <hr />
