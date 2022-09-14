@@ -1,4 +1,4 @@
-### Front-end Developer, 꾸준한 열정 으로 성장하는 개발자 👋
+### Developer, 꾸준한 열정 으로 성장하는 개발자 👋
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeonjun&count_bg=%231B61C2&title_bg=%23332020&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -37,6 +37,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3"/></a> &nbsp
 <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React"/></a> &nbsp
 <img src="https://img.shields.io/badge/-typescript-007acc?style=flat&logo=typescript"/></a> &nbsp
+<img src="https://img.shields.io/badge/-typescript-007acc?style=flat&logo=springBoot"/></a> &nbsp
+
 
 <hr />
 
