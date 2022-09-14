@@ -37,7 +37,11 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3"/></a> &nbsp
 <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React"/></a> &nbsp
 <img src="https://img.shields.io/badge/-typescript-007acc?style=flat&logo=typescript"/></a> &nbsp
-<img src="https://img.shields.io/badge/-SpringBoot-007acc?style=flat&logo=springBoot"/></a> &nbsp
+<img src="https://img.shields.io/badge/-Spring Boot-6DB33F?style=flat&logo=Spring Boot"/></a> &nbsp
+<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL"/></a> &nbsp
+<img src="https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=MariaDB"/></a> &nbsp
+<img src="https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=Oracle"/></a> &nbsp
+<img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=Java"/></a> &nbsp
 
 
 <hr />
