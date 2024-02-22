@@ -12,11 +12,11 @@
 <h2 align="center"><b>🛠 Back End Stack 🛠</b></h2>
 </br>
 <p align="center">
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript"/></a> &nbsp
-<img src="https://img.shields.io/badge/-typescript-007acc?style=flat&logo=typescript"/></a> &nbsp
-<img src="https://img.shields.io/badge/-Spring Boot-6DB33F?style=flat&logo=Spring Boot"/></a> &nbsp
-<img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=Spring"/></a> &nbsp
-<img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=Java"/></a> &nbsp
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript"/></a> 
+<img src="https://img.shields.io/badge/-typescript-007acc?style=flat&logo=typescript"/></a> 
+<img src="https://img.shields.io/badge/-Spring Boot-6DB33F?style=flat&logo=Spring Boot"/></a>
+<img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=Spring"/></a> 
+<img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=Java"/></a> 
 
 
 <hr />
@@ -25,9 +25,9 @@
 <h2 align="center"><b>🛠 Database Stack 🛠</b></h2>
 <br/>
 
-<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL"/></a> &nbsp
-<img src="https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=MariaDB"/></a> &nbsp
-<img src="https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=Oracle"/></a> &nbsp
+<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL"/></a> 
+<img src="https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=MariaDB"/></a>
+<img src="https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=Oracle"/></a> 
 
 <hr />
 <br/>
@@ -35,10 +35,9 @@
 <h2 align="center"><b>🛠 DEVOPS Stack 🛠</b></h2>
 <br/>
 
-<img src="https://img.shields.io/badge/-Docker-007396?style=flat&logo=Docker"/></a> &nbsp
-<img src="https://img.shields.io/badge/-Jenkins-007396?style=flat&logo=Jenkins"/></a> &nbsp
-<img src="https://img.shields.io/badge/-Aws-007396?style=flat&logo=Aws"/></a> &nbsp
-
+<img src="https://img.shields.io/badge/-Docker-007396?style=flat&logo=Docker"/></a> 
+<img src="https://img.shields.io/badge/-Jenkins-007396?style=flat&logo=Jenkins"/></a> 
+<img src="https://img.shields.io/badge/-Aws-007396?style=flat&logo=Aws"/></a>
 
 <hr />
 
