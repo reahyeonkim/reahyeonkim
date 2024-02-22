@@ -12,11 +12,10 @@
 <h2 align="center"><b>🛠 Back End Stack 🛠</b></h2>
 </br>
 <p align="center">
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript"/></a> 
-<img src="https://img.shields.io/badge/-typescript-007acc?style=flat&logo=typescript"/></a> 
+<img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=Java"/></a> 
 <img src="https://img.shields.io/badge/-Spring Boot-6DB33F?style=flat&logo=Spring Boot"/></a>
 <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=Spring"/></a> 
-<img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=Java"/></a> 
+
 
 
 <hr />
