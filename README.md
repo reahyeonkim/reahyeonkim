@@ -23,8 +23,8 @@
 <br/>
 
 <h2 align="center"><b>🛠 Database Stack 🛠</b></h2>
-<br/>
-
+</br>
+<p align="center">
 <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL"/></a> 
 <img src="https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=MariaDB"/></a>
 <img src="https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=Oracle"/></a> 
@@ -33,8 +33,8 @@
 <br/>
 
 <h2 align="center"><b>🛠 DEVOPS Stack 🛠</b></h2>
-<br/>
-
+</br>
+<p align="center">
 <img src="https://img.shields.io/badge/-Docker-007396?style=flat&logo=Docker"/></a> 
 <img src="https://img.shields.io/badge/-Jenkins-007396?style=flat&logo=Jenkins"/></a> 
 <img src="https://img.shields.io/badge/-Aws-007396?style=flat&logo=Aws"/></a>
