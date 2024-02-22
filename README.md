@@ -13,16 +13,16 @@
 </br>
 <p align="center">
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript"/></a> &nbsp
-<img src="https://img.shields.io/badge/-redux-764abc?style=flat&logo=redux"/></a> &nbsp
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5"/></a> &nbsp
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3"/></a> &nbsp
-<img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React"/></a> &nbsp
 <img src="https://img.shields.io/badge/-typescript-007acc?style=flat&logo=typescript"/></a> &nbsp
 <img src="https://img.shields.io/badge/-Spring Boot-6DB33F?style=flat&logo=Spring Boot"/></a> &nbsp
+<img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=Spring"/></a> &nbsp
 <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL"/></a> &nbsp
 <img src="https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=MariaDB"/></a> &nbsp
 <img src="https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=Oracle"/></a> &nbsp
 <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=Java"/></a> &nbsp
+<img src="https://img.shields.io/badge/-Docker-007396?style=flat&logo=Docker"/></a> &nbsp
+<img src="https://img.shields.io/badge/-Jenkins-007396?style=flat&logo=Jenkins"/></a> &nbsp
+<img src="https://img.shields.io/badge/-Aws-007396?style=flat&logo=Aws"/></a> &nbsp
 
 
 <hr />
